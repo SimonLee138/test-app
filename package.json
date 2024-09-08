@@ -1,7 +1,7 @@
 {
   "name": "test-app",
   "version": "0.0.0",
-  "homepage": "https://simonlee138.github.io/test-app",
+  "homepage": "https://simonlee138.github.io/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
